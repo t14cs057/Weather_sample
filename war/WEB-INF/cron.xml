@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/sendMail</url>
+    <description>危険度計算およびメール送信</description>
+    <schedule>every 1 hours</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+</cronentries>
